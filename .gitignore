@@ -1,0 +1,14 @@
+# Dependencias y build
+node_modules/
+dist/
+
+# Secretos locales
+.env
+.env.*
+!env.template
+
+# Sistema y editores
+.DS_Store
+*.local
+.idea/
+.vscode/
